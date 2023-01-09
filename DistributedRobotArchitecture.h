@@ -1,10 +1,9 @@
 #ifndef DISTRIBUTEDROBOTARCHITECTURE_H
 #define DISTRIBUTEDROBOTARCHITECTURE_H
+    
+#include "ArduinoDrive.h"
+#include "ArduinoSteering.h"
+#include "AckermanDrive.h"
 
-#include "Actuator.h"
-#include "Chassis.h"
-
-#include "TestMotor.h"
-#include "TestSteering.h"
 
 #endif DISTRIBUTEDROBOTARCHITECTURE_H
